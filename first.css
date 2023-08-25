@@ -16,6 +16,9 @@ form{
     text-align: center;
     box-shadow: 0.6px 0.6px 10px gray;
 }
+form>h1{
+    margin-bottom: 1.3rem;
+}
 input{
     width: 80%;
     height: 40px;
