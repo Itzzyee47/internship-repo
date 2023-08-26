@@ -174,7 +174,7 @@ header>div{
     background-color: brown;
 }
 .p2{
-    background-image: url('imgs/oh.png');
+    background-image: url('../imgs/oh.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -331,7 +331,7 @@ input,textarea{
         flex-direction: column;
         height: 80vh;
         width: 100%;
-        src: url('imgs/d2.png');
+        src: url('../imgs/d2.png');
     }
     .p1>p{
         left: 0;
